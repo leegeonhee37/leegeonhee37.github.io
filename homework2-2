@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>homework2-2</title>
+    <style>
+        table {
+            width: 50%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: black;
+            color: white
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <th>게임이름</th>
+            <th>가격(원)</th>
+        </tr>
+        <tr>
+            <td>monster hunter wilds</td>
+            <td>84,800</td>
+        </tr>
+        <tr>
+            <td>Ｌｉａｒ’ｓ ｂａｒ</td>
+            <td>７、８００</td>
+        </tr>
+        <tr>
+            <td>phasmophobia</td>
+            <td>21,500</td>
+    </table>
+</body>
+</html>
