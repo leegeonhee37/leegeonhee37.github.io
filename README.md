@@ -1,1 +1,10 @@
-웹 개발(web development)은 인터넷(월드 와이드 웹)이나 인트라넷(사설망)을 위한 웹사이트를 개발하는 일을 가리킨다. 웹 개발은 가장 단순한 단일 정적 문서의 플레인 텍스트에서부터 가장 복잡한 웹 기반 인터넷 애플리케이션, 전자 비즈니스, 소셜 네트워크 서비스에 이르기까지 개발 범위가 다양하다. 일반적으로 웹 개발이라 부를 때 더 포괄적인 작업으로는 웹 디자인, 웹 콘텐츠 개발, 클라이언트
+- [homework2-1.html](https://leegeonhee37.github.io/homework2-1.html)
+- [homework2-2.html](https://leegeonhee37.github.io/homework2-2.html)
+- [homework2-3.html](https://leegeonhee37.github.io/homework2-3.html)
+- [homework2-4.html](https://leegeonhee37.github.io/homework2-4.html)
+
+- ![hw3-1](https://leegeonhee37.github.io/hw3-1.jpg)
+- ![hw3-2](https://leegeonhee37.github.io/hw3-2.jpg)
+- ![hw3-3](https://leegeonhee37.github.io/hw3-3.jpg)
+- ![hw3-4](https://leegeonhee37.github.io/hw3-4.jpg)
+- ![hw3-5](https://leegeonhee37.github.io/hw3-5.jpg)
