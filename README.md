@@ -1,7 +1,7 @@
-- [homework2-1](https://leegeonhee37.github.io/homework2-1.html)
-- [homework2-2](https://leegeonhee37.github.io/homework2-2.html)
-- [homework2-3](https://leegeonhee37.github.io/homework2-3.html)
-- [homework2-4](https://leegeonhee37.github.io/homework2-4.html)
+- [hw2-1](https://leegeonhee37.github.io/homework2-1.html)
+- [hw2-2](https://leegeonhee37.github.io/homework2-2.html)
+- [hw2-3](https://leegeonhee37.github.io/homework2-3.html)
+- [hw2-4](https://leegeonhee37.github.io/homework2-4.html)
 
 - [hw3-1](https://leegeonhee37.github.io/hw3-1.jpg)
 - [hw3-2](https://leegeonhee37.github.io/hw3-2.jpg)
