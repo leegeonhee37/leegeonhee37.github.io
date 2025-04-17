@@ -2,7 +2,7 @@
 - [hw2-2](https://leegeonhee37.github.io/homework2-2.html)
 - [hw2-3](https://leegeonhee37.github.io/homework2-3.html)
 - [hw2-4](https://leegeonhee37.github.io/homework2-4.html)
-<br></br>
+<br><br>
 - [hw3-1](https://leegeonhee37.github.io/hw3-1.jpg)
 - [hw3-2](https://leegeonhee37.github.io/hw3-2.jpg)
 - [hw3-3](https://leegeonhee37.github.io/hw3-3.jpg)
