@@ -13,6 +13,6 @@
 - [hw4-list](https://leegeonhee37.github.io/hw4-ticket_list.php.txt)
 - [hw4-sql](https://leegeonhee37.github.io/hw4-ticketdb.sql.txt)
 <br><br>
-- [hw5-html](https://leegeonhee37.github.io/hw5-html)
-- [hw5-css](https://leegeonhee37.github.io/hw5-css)
-- [hw5-java_script](https://leegeonhee37.github.io/hw5-javascript)
+- [hw5-html](https://leegeonhee37.github.io/hw5-html.txt)
+- [hw5-css](https://leegeonhee37.github.io/hw5-css.txt)
+- [hw5-java_script](https://leegeonhee37.github.io/hw5-javascript.txt)
